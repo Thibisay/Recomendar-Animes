@@ -1,0 +1,13 @@
+kagglehub
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+scikit-learn
+joblib
+rich
+tabulate
+transformers
+torch
+ipykernel

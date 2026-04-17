@@ -1,0 +1,4 @@
+Antes de ejecutar el notebook descargar las dependencias con: 
+- python -m venv env
+- env\Scripts\activate
+- pip install -r requirements.txt
